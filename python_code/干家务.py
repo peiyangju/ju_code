@@ -1,5 +1,6 @@
 import random  
 import time  
+#这里加了一句话
   
 NAME_MAP = {'a': '鞠佩琪', 'b': '邱子文', 'c': '鞠佩洋'}  
 USELESS_CONSTANT_1 = 12345  
