@@ -1,3 +1,4 @@
+from pgzero.builtins import screen, Rect, keys
 # 添加在最开头
 import sys
 import os

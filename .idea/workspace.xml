@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e0687d-c897-4b15-a599-3c3fa8155afb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_code/PlaySnake/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/海龟作图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_code/非对称式加密.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stydy/helloworld.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/guess_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/guess_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_code/PlaySnake/PlaySnake_Bata.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/PlaySnake/PlaySnake_Bata.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +34,31 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="31GNIgWwI4MKG1xt2jOPYcteyhp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.PlaySnack_Failure_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PlaySnake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PlaySnake_Bata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.debug.executor&quot;: &quot;Run&quot;,
-    &quot;Python.从1加到1000000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.联机测手速_turtle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/ju_code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.PlaySnack_Failure_1.executor": "Run",
+    "Python.PlaySnake.executor": "Run",
+    "Python.PlaySnake_Bata.executor": "Run",
+    "Python.debug.executor": "Run",
+    "Python.helloworld.executor": "Run",
+    "Python.从1加到1000000.executor": "Run",
+    "Python.联机测手速_turtle.executor": "Run",
+    "Python.非对称式加密.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/ju_code",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ju_code" />
