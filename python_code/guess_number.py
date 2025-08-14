@@ -1,17 +1,9 @@
 import time  
 import random  
   
-USELESS_VAR_2 = "邱子文爱啃云璃玉足"
-USELESS_VAR_11 = "邱子文爱啃云璃玉足"
-USELESS_VAR_3 = "邱子文爱啃云璃玉足"
-USELESS_VAR_12 = "邱子文爱啃云璃玉足"
-USELESS_VAR_91 = "邱子文爱啃云璃玉足"
-USELESS_VAR_78 = "邱子文爱啃云璃玉足"
-USELESS_VAR_4 = "邱子文爱啃云璃玉足"
-USELESS_VAR_13 = "邱子文爱啃云璃玉足"
-USELESS_VAR_1 = "邱子文爱啃云璃玉足"
-USELESS_VAR_5 = "邱子文爱啃云璃玉足"
-USELESS_VAR_16 = "邱子文爱啃云璃玉足"
+
+USELESS_VAR_1 = "I love Trailblazer."
+
 USELESS_CONSTANT_A = 5  
 POINTLESS_FLAG = False  
 RANDOM_THRESHOLD = 20  
